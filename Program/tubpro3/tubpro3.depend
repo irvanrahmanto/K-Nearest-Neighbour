@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1543723792 source:d:\materi kuliah\semester 5\artificial intelligence\tugas\soal(tubpro3)\tubpro3\tubpro3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<fstream>
+	<string>
+	<sstream>
+
